@@ -11,4 +11,8 @@
 ```As a user, to be able to see my saved pages,
 I would like to be able to see a list of bookmarks.
 ```
+```As a user
+So I can store bookmark data for later retrieval
+I want to add a bookmark to Bookmark Manager```
+
 [logo]: image.png
